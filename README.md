@@ -4,7 +4,7 @@ The full analysis I've conducted can be found in the jupyter notebook located he
 
 Data originally downloaded from here: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
-This is a bit of a meandering 'stream of consciousness' analysis of AirBNB listings within NYC as of 2019. 
+This is a bit of a meandering analysis of AirBNB listings within NYC as of 2019. 
 
 In the first section, I've imported and cleaned the data, identifying outliers, missing data and any interesting observations which may be worth chasing up. For example, an examination of the time since last review vs the number of available nights to rent suggest there are many dormant listings in this dataset. Perhaps we would want to remove these from our analysis? I could imagine these datapoints may skew our interpretation of AirBNB listings...
 
